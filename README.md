@@ -19,10 +19,10 @@ Before you begin, ensure you have met the following requirements:
 - A News API key (You can obtain it by signing up at [NewsAPI](https://newsapi.org/)).
 
 ## Installation
-
+```bash
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/your-username/news-search-app.git
 cd news-search-app
 
