@@ -21,3 +21,14 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 ### 1. Clone the repository
+
+
+git clone https://github.com/your-username/news-search-app.git
+cd news-search-app
+
+### 2. Create a virtual environment
+
+python3 -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+
+### 3. Install dependencies
